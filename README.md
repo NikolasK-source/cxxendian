@@ -1,8 +1,3 @@
-# CMake Library Project template
+#CXXEndian
 
-This repository is a template for CMake C++ Projects.
-
-## Supported Compilers
-
-    - gcc
-    - clang
+This header library proivides endian save integer and floating point data types.
